@@ -28,4 +28,4 @@ $ git clone https://github.com/Musk-ID/Satoearn
 $ cd Satoearn
 $ python bot.py
 ```
-- [X] Join Jadi Sultan [here](https://rotf.lol/Cryptoshi)
+- [X] Join Jadi Sultan [here](https://rotf.lol/Satoearn)
